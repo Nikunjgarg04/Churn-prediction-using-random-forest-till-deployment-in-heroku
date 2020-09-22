@@ -1,0 +1,12 @@
+.idea
+__pycache__
+.ipynb_checkpoints
+Churn Modeling for Fundraising.ipynb
+comclas.sas7bdat
+commaint.sas7bdat
+commediu.sas7bdat
+communication.sas7bdat
+extrel.sas7bdat
+extrelty.sas7bdat
+nameaddr.sas7bdat
+payhistory.sas7bdat
